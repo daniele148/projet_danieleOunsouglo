@@ -6,6 +6,8 @@
 </head>
 <body>
 <h1><%= "premier changement" %></h1>
+
+<h2><%= "deuxième changement" %></h2>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 </body>
